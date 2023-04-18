@@ -1,5 +1,5 @@
 {
-    "name": "GS Project learning",
+    "name": "Random food picker",
     "description": "",
     "dependencies": {
         "core": "*",
